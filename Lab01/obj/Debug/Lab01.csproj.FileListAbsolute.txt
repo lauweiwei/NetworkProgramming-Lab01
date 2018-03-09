@@ -1,0 +1,7 @@
+E:\Network Programming\Lab01\Lab01\bin\Debug\Lab01.exe.config
+E:\Network Programming\Lab01\Lab01\bin\Debug\Lab01.exe
+E:\Network Programming\Lab01\Lab01\bin\Debug\Lab01.pdb
+E:\Network Programming\Lab01\Lab01\obj\Debug\Lab01.csprojResolveAssemblyReference.cache
+E:\Network Programming\Lab01\Lab01\obj\Debug\Lab01.csproj.CoreCompileInputs.cache
+E:\Network Programming\Lab01\Lab01\obj\Debug\Lab01.exe
+E:\Network Programming\Lab01\Lab01\obj\Debug\Lab01.pdb
